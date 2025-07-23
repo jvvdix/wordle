@@ -14,7 +14,7 @@
   - ⬜️ **Gris**: la letra no está en la palabra.
 
 
-** Instrucciones paso a paso **
+**Instrucciones paso a paso**
 
 1. Abre el archivo `index.html` en tu navegador.
 2. Escribe una palabra de 5 letras usando tu teclado.
@@ -23,14 +23,14 @@
 5. ¡Acierta la palabra en 6 intentos o menos para ganar!
 
 
-**  Reglas del juego **
+**Reglas del juego**
 
 - Sólo se aceptan palabras de 5 letras en inglés.
 - Cada letra puede aparecer más de una vez.
 
 
 
-** Cómo ejecutarlo localmente**
+**Cómo ejecutarlo localmente**
 
 1. Clona el repositorio:   git clone https://github.com/jvvdix/wordle.git
 2. Entra en la carpeta del proyecto
@@ -45,7 +45,7 @@ Welcome to the web version of Wordle! This project is an adaptation of the popul
 
 
 
-**How to Play**
+**How to play**
 
 - The goal is to **guess a hidden 5-letter word**.
 - You have **6 attempts** to find the correct word.
@@ -57,7 +57,7 @@ Welcome to the web version of Wordle! This project is an adaptation of the popul
 
 
 
-** Step-by-step Instructions **
+**Step-by-step instructions**
 
 1. Open the `index.html` file in your browser.
 2. Type a 5-letter word using your keyboard.
@@ -67,14 +67,14 @@ Welcome to the web version of Wordle! This project is an adaptation of the popul
 
 
 
-** Game Rules **
+**Game rules**
 
 - Only real 5-letter words in English are accepted.
 - A letter may appear more than once in the word.
 
 
 
-** How to Run It Locally **
+**How to run it locally**
 
 1. Clone the repository:   `git clone https://github.com/jvvdix/wordle.git`
 2. Navigate into the project folder.
